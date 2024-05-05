@@ -1,0 +1,1 @@
+const apiUrl = 'https://optiprix-server.azurewebsites.net/api'; 
